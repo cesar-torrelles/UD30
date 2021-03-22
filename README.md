@@ -1,10 +1,10 @@
-# Unidad 29 -  JQUERY
+# Unidad 30 -  JQUERY
 
 ### Equipo de desarrollo:
 
 | Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
 | --- | :---:  | :---:  | :---:  | :---: | :---:  |
-| Cesar Torrelles | Dev  | FullStack Developer | 01/02/2021 | UD29  | 1.0  | 
+| Cesar Torrelles | Dev  | FullStack Developer | 01/02/2021 | UD30  | 1.0  | 
 
 
 ### 1. Descripción
@@ -16,7 +16,7 @@ JQUERY - CC21_REUS_JavaAngular_2
 
 Repositorio de los ejercicios:
 ```
-https://github.com/cesar-torrelles/UD29
+https://github.com/cesar-torrelles/UD30
 ```
 ###   3. Lista de herramientas para poder ejecutarlo:
 ```
